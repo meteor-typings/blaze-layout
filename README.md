@@ -1,3 +1,3 @@
 ## Installation
 
-`typings install github:meteor-typings/blaze-layout#972012feb2a23b0be17fd4340321a4268fa2f3b2 --global`
+`typings install github:meteor-typings/blaze-layout#a28fe1542f67c4fdcebbba612c7e722f08973b59 --global`
