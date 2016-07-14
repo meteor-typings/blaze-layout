@@ -1,0 +1,7 @@
+{
+  "name": "kadira:blaze-layout",
+  "version": "2.3.0",
+  "main": "main.d.ts",
+  "homepage": "https://atmospherejs.com/kadira/blaze-layout",
+  "global": true
+}
